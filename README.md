@@ -1,22 +1,10 @@
 # Hello, World🌍. I'm Laura
-## About me 
-I'm from Argentina, currently living in Andalusia. I'm in the middle of a career transition from crocheter to programmer.
-I like things that envolve patterns, trial and error, and rhythm:
-- 🕸️ Crocheting (https://www.instagram.com/cabezarueca if you want to take a look)
-- 🪗 Music
-- 💬 Learning and practicing languages
-- 🛼 Skating
+## About me
+I'm an Argentinian living in Andalusia. I'm a crocheter (like a human 3D printer) becoming a programmer.
+I love patterns and languages. Recently, I discovered coding and found it very connected to both.
+(Feel free to check out my crocheted creations on https://www.instagram.com/cabezarueca 🕸️).
 
 ## So far in programming 🤖
-I took several courses at Platzi (Definitive HTML and CSS, Basic JavaScript, Frontend Developer) and a full stack web development bootcamp at Adalab. There I deepened these skills and learned and worked with several other new ones:
-- Sass
-- Responsive and mobile first design
-- JavaScript
-- MERN stack (MongoDB, Express, React, Node)
-- MySQL
-- Git and GitHub
-- Pair programming, group project development, Agile (Scrum)
-
-## Contact ✉️
-https://www.linkedin.com/in/malalu
-lurmarialaura@gmail.com
+I'm mainly self-taught, through JavaScript katas and on platforms like FreeCodeCamp.
+But I also did a full-stack web development bootcamp, with MERN stack and SQL, where we worked in pair programming and in Scrum groups to develop larger projects.
+Currently, I'm studying two courses involving Python: IBM Python Fullstack and the Google Cybersecurity Professional Certificate.
